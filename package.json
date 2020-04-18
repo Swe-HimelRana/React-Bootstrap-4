@@ -1,0 +1,26 @@
+{
+  "name": "react-bootstrap4",
+  "displayName": "React Bootstrap 4",
+  "description": "Bootstrap 4 for react",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.44.0"
+  },
+  "keywords": [
+    "snippets",
+    "bootstrap",
+    "react",
+    "javascriptreact"
+  ],
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}
