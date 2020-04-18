@@ -15,6 +15,10 @@
   "categories": [
     "Snippets"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Swe-HimelRana/React-Bootstrap-4.git"
+  },
   "contributes": {
     "snippets": [
       {
