@@ -3,7 +3,7 @@
   "displayName": "React Bootstrap 4",
   "description": "Bootstrap 4 for react",
   "icon": "icon.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "Himel",
   "engines": {
     "vscode": "^1.28.0"
@@ -24,8 +24,12 @@
   "contributes": {
     "snippets": [
       {
+        "language": "javascript",
+        "path": "./snippets.json"
+      },
+      {
         "language": "javascriptreact",
-        "path": "./snippets/snippets.json"
+        "path": "./snippets.json"
       }
     ]
   }
