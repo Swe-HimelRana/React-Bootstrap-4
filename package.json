@@ -4,8 +4,9 @@
   "description": "Bootstrap 4 for react",
   "icon": "icon.png",
   "version": "1.0.0",
+  "publisher": "Himel",
   "engines": {
-    "vscode": "^1.44.0"
+    "vscode": "^1.28.0"
   },
   "keywords": [
     "snippets",
