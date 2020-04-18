@@ -25,11 +25,11 @@
     "snippets": [
       {
         "language": "javascript",
-        "path": "./snippets.json"
+        "path": "./snippets/snippets.json"
       },
       {
         "language": "javascriptreact",
-        "path": "./snippets.json"
+        "path": "./snippets/snippets.json"
       }
     ]
   }
