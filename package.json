@@ -2,6 +2,7 @@
   "name": "react-bootstrap4",
   "displayName": "React Bootstrap 4",
   "description": "Bootstrap 4 for react",
+  "icon": "icon.png",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.44.0"
