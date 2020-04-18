@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/Swe-HimelRana/React-Bootstrap-4/master/icon.png)
 
-### Version: 1.0.1
+### Version: 1.0.2
 
 Easy Bootstrap 4 for ReactJS
 
