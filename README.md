@@ -10,8 +10,6 @@ Easy Bootstrap 4 in ReactJS
 | ------------- | ------------------ |
 | rbh-lorem     | 13 word lorem text |
 | rbh-lorem-big | lorem paragraph    |
-|               |                    |
-|               |                    |
 
 ## Snippets Bootstrap 4
 
