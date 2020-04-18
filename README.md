@@ -1,8 +1,10 @@
 # React Bootstrap-4.\*
 
+![](https://raw.githubusercontent.com/Swe-HimelRana/React-Bootstrap-4/master/icon.png)
+
 ### Version: 1.0.0
 
-Easy Bootstrap 4 in ReactJS
+Easy Bootstrap 4 for ReactJS
 
 ## Helpers
 
