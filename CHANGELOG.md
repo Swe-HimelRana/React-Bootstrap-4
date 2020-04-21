@@ -13,3 +13,7 @@ All notable changes to the "react-bootstrap4" extension will be documented in th
 ## [1.0.2]
 
 - Simple Bug fix
+
+## [1.0.3]
+
+- Bug Fix ( Navbar, Login Form, Registration Form)

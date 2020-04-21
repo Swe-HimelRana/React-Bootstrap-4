@@ -1,8 +1,8 @@
-# React Bootstrap-4.\*
+# React Bootstrap-4.\* (For Visual Studio Code)
 
 ![](https://raw.githubusercontent.com/Swe-HimelRana/React-Bootstrap-4/master/icon.png)
 
-### Version: 1.0.2
+### Version: 1.0.3
 
 Easy Bootstrap 4 for ReactJS
 
