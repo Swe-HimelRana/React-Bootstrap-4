@@ -3,7 +3,7 @@
   "displayName": "React Bootstrap 4 Snippets",
   "description": "Bootstrap 4 Snippets for ReactJS",
   "icon": "icon.png",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "Himel",
   "engines": {
     "vscode": "^1.28.0"

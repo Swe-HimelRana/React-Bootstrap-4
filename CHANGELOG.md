@@ -14,6 +14,10 @@ All notable changes to the "react-bootstrap4" extension will be documented in th
 
 - Simple Bug fix
 
-## [1.0.3]
+## [1.0.3] # 22 April - 2020
 
 - Bug Fix ( Navbar, Login Form, Registration Form)
+
+## [1.0.4] 22 April - 2020
+
+- Bug Fix ( Login Form Typo )
