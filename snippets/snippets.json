@@ -298,7 +298,7 @@
       "    </div>",
       "    <div className=\"form-group\">",
       "      <label htmlFor=\"password\">Password</label>",
-      "      <input type=\"password\" name=\"passowrd\" className=\"form-control\" id=\"password\" placeholder=\"Password\" />",
+      "      <input type=\"password\" name=\"password\" className=\"form-control\" id=\"password\" placeholder=\"Password\" />",
       "    </div>",
       "    <div className=\"form-check\">",
       "      <input type=\"checkbox\" name=\"checkbox\" className=\"form-check-input\" id=\"remember\" />",
